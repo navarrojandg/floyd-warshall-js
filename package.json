@@ -1,7 +1,7 @@
 {
   "name": "floyd-warshall-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "floyd warshall graph algorithm for finding all pairs shortest path, implemented in vanilla js",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --verbose",
@@ -11,8 +11,15 @@
     "type": "git",
     "url": "git+https://github.com/navarrojandg/floyd-warshall-js.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "floyd", 
+    "warshall",
+    "jest",
+    "graph",
+    "algorithm",
+    "all pair shortest path"
+  ],
+  "author": "jan derrick navarro",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/navarrojandg/floyd-warshall-js/issues"
