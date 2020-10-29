@@ -1,4 +1,4 @@
-const {FloydWarshall} = require('./lib/floydWarshall');
+const FloydWarshall = require('./lib/floydWarshall');
 const Matrix = require('./lib/matrix/index');
 
 const array = [
