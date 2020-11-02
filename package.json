@@ -12,7 +12,7 @@
     "url": "git+https://github.com/navarrojandg/floyd-warshall-js.git"
   },
   "keywords": [
-    "floyd", 
+    "floyd",
     "warshall",
     "jest",
     "graph",
